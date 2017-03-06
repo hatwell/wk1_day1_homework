@@ -1,0 +1,6 @@
+#This is my gitignore file. It doesn't really apply to this project but
+#I learned about the sorts of filetypes I might want to ignore, like
+# automatically generated files like .logs and packages and compied files.
+#In the case of packages etc it's better to unpack and commit separately.
+#I also learned I could create a global .gitignore file to specify 
+#filetypes that should be excluded from all repositories.
